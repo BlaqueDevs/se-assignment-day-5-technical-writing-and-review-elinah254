@@ -11,7 +11,7 @@ A tech-savvy audience benefits from in-depth details, advanced functionalities, 
 A general audience requires a focus on broad concepts, real-world applications, and essential takeaways.
 c. Use of Analogies & Examples
 For a tech-savvy audience, comparisons to similar technologies can be effective. For example, "This tool functions like an API gateway, controlling traffic between services."
-For a general audience, relatable analogies work best. For example, "An API works like a waiter in a restaurant—it takes your request and brings back what you ordered from the kitchen."
+For a general audience, relatable analogies work best. For example; "An API works like a waiter in a restaurant—it takes your request and brings back what you ordered from the kitchen."
 d. Visuals & Demonstrations
 A tech-savvy audience benefits from technical diagrams, code samples, and detailed documentation.
 A general audience responds better to simple visuals, step-by-step guides, and real-world examples.
